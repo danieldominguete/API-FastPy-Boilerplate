@@ -1,4 +1,4 @@
-fastapi==0.61.1
+fastapi==0.65.2
 pydantic==1.6.1
 python-dateutil==2.8.1
 python-dotenv==0.14.0
